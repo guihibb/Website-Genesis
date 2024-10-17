@@ -1,17 +1,15 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 28 May 2024 22:52:03 at https://duo-studio.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://duo-studio.co/ -O1 "C:\Users\vinib\Downloads\Site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 29 Sep 2024 14:07:18 at https://www.widelab.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://www.widelab.co/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.widelab.co/ -O1 "C:\Users\vinib\Downloads\G" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://www.widelab.co/* )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-22:52:35	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://duo-studio.co/)
-22:55:10	Error: 	"Not Found" (404) at link https://duo-studio.co/assets/work/finturity/finturity__banner@1024.webp 1024w (from https://duo-studio.co/services/branding-identity-system/)
-22:55:10	Error: 	"Not Found" (404) at link https://duo-studio.co/assets/work/amparo/amparo__banner@1024.webp 1024w (from https://duo-studio.co/services/branding-identity-system/)
-22:55:10	Error: 	"Not Found" (404) at link https://duo-studio.co/assets/work/madegood/madegood__banner@1024.webp 1024w (from https://duo-studio.co/services/web-design-development/)
-22:55:10	Error: 	"Not Found" (404) at link https://duo-studio.co/assets/work/cruefilms/cruefilms__banner@1024.webp 1024w (from https://duo-studio.co/services/web-design-development/)
-22:55:10	Error: 	"Not Found" (404) at link https://duo-studio.co/assets/work/mgny/mgny__banner@1024.webp 1024w (from https://duo-studio.co/services/graphic-design/)
+14:07:29	Error: 	"Error when decompressing" (-1) at link https://www.widelab.co/âhttp://cdn.jsdelivr.net" (from https://www.widelab.co/)
+14:07:29	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.widelab.co/)
+14:08:11	Error: 	"Error when decompressing" (-1) at link https://www.widelab.co/case-studies/âhttp://cdn.jsdelivr.net" (from https://www.widelab.co/case-studies/traba)
+14:08:11	Error: 	"Error when decompressing" (-1) at link https://www.widelab.co/blog/âhttp://cdn.jsdelivr.net" (from https://www.widelab.co/blog/its-time-for-widelab-rebranding-and-story)
 
-HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 7 seconds : 252 links scanned, 245 files written (201541782 bytes overall) [200790517 bytes received at 1073746 bytes/sec], 1604978 bytes transferred using HTTP compression in 43 files, ratio 36%, 19.5 requests per connection
-(6 errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 53 seconds : 106 links scanned, 101 files written (18231955 bytes overall) [16068088 bytes received at 303171 bytes/sec], 3165226 bytes transferred using HTTP compression in 37 files, ratio 26%, 13.5 requests per connection
+(4 errors, 0 warnings, 0 messages)
